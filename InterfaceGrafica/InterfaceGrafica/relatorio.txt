@@ -1,0 +1,59 @@
+Vaga do identificador 101: número de sucesso 1, número de falhas 0
+Vaga do identificador 102: número de sucesso 1, número de falhas 0
+Vaga do identificador 103: número de sucesso 0, número de falhas 0
+Vaga do identificador 104: número de sucesso 0, número de falhas 0
+Vaga do identificador 105: número de sucesso 0, número de falhas 0
+Vaga do identificador 106: número de sucesso 1, número de falhas 0
+Vaga do identificador 107: número de sucesso 0, número de falhas 1
+Vaga do identificador 108: número de sucesso 0, número de falhas 0
+Vaga do identificador 109: número de sucesso 0, número de falhas 0
+Vaga do identificador 110: número de sucesso 0, número de falhas 0
+Vaga do identificador 111: número de sucesso 0, número de falhas 0
+Vaga do identificador 112: número de sucesso 0, número de falhas 0
+Vaga do identificador 113: número de sucesso 0, número de falhas 0
+Vaga do identificador 114: número de sucesso 0, número de falhas 0
+Vaga do identificador 115: número de sucesso 0, número de falhas 0
+Vaga do identificador 116: número de sucesso 0, número de falhas 0
+Vaga do identificador 117: número de sucesso 0, número de falhas 0
+Vaga do identificador 118: número de sucesso 0, número de falhas 0
+Vaga do identificador 119: número de sucesso 0, número de falhas 0
+Vaga do identificador 120: número de sucesso 0, número de falhas 0
+Vaga do identificador 101: número de pesados 1, leves0, alto0.0, baixo1.0, longo1.0, curto0.0, largo1.0, estreito0.0
+Vaga do identificador 102: número de pesados 0, leves1, alto0.0, baixo1.0, longo0.0, curto1.0, largo1.0, estreito0.0
+Vaga do identificador 103: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 104: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 105: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 106: número de pesados 0, leves1, alto1.0, baixo0.0, longo1.0, curto0.0, largo1.0, estreito0.0
+Vaga do identificador 107: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 108: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 109: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 110: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 111: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 112: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 113: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 114: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 115: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 116: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 117: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 118: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 119: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+Vaga do identificador 120: número de pesados 0, leves0, alto0.0, baixo0.0, longo0.0, curto0.0, largo0.0, estreito0.0
+1675,,1.8,4.9,1.8
+1300,,1.4,1.6,1.6
+3000,,1.1,4.4,1.9
+Data e horário do fim da simulação:15/02/2017 20:15:29
+Data e horário do inicio da simulação:15/02/2017 20:16:51
+<entrada=1/saida=0>,<sucesso=1/falha=0>,<chassi do veículo=1246>,<identificador de vaga=102>,<data e horário=15/02/2017 20:17:22>
+Data e horário do fim da simulação:15/02/2017 20:17:53
+Data e horário do inicio da simulação:06/03/2017 11:13:24
+<entrada=1/saida=0>,<sucesso=1/falha=0>,<chassi do veículo=1234>,<identificador de vaga=106>,<data e horário=06/03/2017 11:13:52>
+Data e horário do inicio da simulação:06/03/2017 11:57:19
+Data e horário do inicio da simulação:06/03/2017 11:58:16
+Data e horário do inicio da simulação:07/03/2017 23:56:12
+Data e horário do inicio da simulação:08/03/2017 00:00:28
+<entrada=1/saida=0>,<sucesso=1/falha=0>,<chassi do veículo=1234>,<identificador de vaga=106>,<data e horário=08/03/2017 00:00:44>
+<entrada=1/saida=0>,<sucesso=1/falha=0>,<chassi do veículo=1240>,<identificador de vaga=102>,<data e horário=08/03/2017 00:00:55>
+Data e horário do fim da simulação:08/03/2017 00:01:02
+Data e horário do inicio da simulação:27/06/2017 14:18:13
+Data e horário do inicio da simulação:27/06/2017 14:19:05
+<entrada=1/saida=0>,<sucesso=0/falha=1>,<chassi do veículo=1234>,<identificador de vaga=102>,<data e horário=27/06/2017 14:19:35>
